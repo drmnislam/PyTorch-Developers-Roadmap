@@ -1,7 +1,7 @@
 <div align="center">
       <h1> <img src="https://github.com/BytesOfIntelligences/BytesOfIntelligences/blob/main/Exploring%20AI's%20Secretsss.png" width="600px"><br/>PyTorch Developers Roadmap <a href="https://github.com/BytesOfIntelligences">Credit  - Bytes of Intelligence </a></h1>
      </div>
-<p align="center"> <a href="https://github.com/BytesOfIntelligences/" target="_blank"><img alt="" 
+<p align="center"> <a href="[https://github.com/BytesOfIntelligences/](https://github.com/drmnislam)" target="_blank"><img alt="" 
 
 ### ***PyTorch Tutorials By  - Jr. Islam M. Noor***
 
